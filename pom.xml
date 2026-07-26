@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.keifadev</groupId>
-    <artifactId>mercora-api</artifactId>
+    <artifactId>mercora</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>mercora-api</name>
     <description>A REST API for grocery store management focused on informal-credit tracking, inventory, and expiration control — built for small neighborhood markets.</description>

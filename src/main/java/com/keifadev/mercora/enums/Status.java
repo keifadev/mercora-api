@@ -1,4 +1,4 @@
-package com.keifadev.mercora_api.enums;
+package com.keifadev.mercora.enums;
 
 public enum Status {
     PAID,
