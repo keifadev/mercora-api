@@ -1,13 +1,13 @@
-package com.keifadev.mercora_api;
+package com.keifadev.mercora;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MercoraApiApplication {
+public class MercoraApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MercoraApiApplication.class, args);
+		SpringApplication.run(MercoraApplication.class, args);
 	}
 
 }
