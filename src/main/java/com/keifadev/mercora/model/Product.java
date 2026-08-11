@@ -31,7 +31,7 @@ public class Product {
     @Column(nullable = false, name = "selling_price", precision = 12, scale = 2)
     private BigDecimal sellingPrice;
 
-    @Column(nullable = false, name = "minimum_stock ")
+    @Column(nullable = false, name = "minimum_stock")
     private Integer minimumStock;
 
     @OneToMany(mappedBy = "product", cascade = CascadeType.ALL)
